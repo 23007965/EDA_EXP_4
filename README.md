@@ -43,7 +43,18 @@ Identify patterns (e.g., more passengers in 3rd class, survival differences by g
 
 #### Reg No.:
 
-**#Write your code here**
+```python
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+df = sns.load_dataset("titanic")
+df.head()
+
+df.shape
+
+df.isnull().sum()
+```
 
 
 
