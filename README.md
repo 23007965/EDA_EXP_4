@@ -56,7 +56,13 @@ df.shape
 df.isnull().sum()
 ```
 
-
+```python
+df["sex"].value_counts()
+df["survived"].value_counts(normalize=True) * 100
+df["pclass"].value_counts()
+df['embarked'].value_counts()
+df["deck"].value_counts()
+```
 
 ### Output
 
