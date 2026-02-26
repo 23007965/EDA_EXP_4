@@ -43,6 +43,7 @@ Identify patterns (e.g., more passengers in 3rd class, survival differences by g
 
 #### Reg No.:
 
+##### Data Understanding
 ```python
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -55,7 +56,7 @@ df.shape
 
 df.isnull().sum()
 ```
-
+##### Categorical Variable Analysis
 ```python
 df["sex"].value_counts()
 
