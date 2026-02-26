@@ -58,6 +58,11 @@ df.isnull().sum()
 
 ```python
 df["sex"].value_counts()
+
+sns.countplot(x='sex', data=df)
+plt.title("Distribution of Gender")
+plt.show()
+
 df["survived"].value_counts(normalize=True) * 100
 df["pclass"].value_counts()
 df['embarked'].value_counts()
