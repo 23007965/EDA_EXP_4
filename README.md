@@ -102,8 +102,21 @@ plt.show()
 
 <img width="767" height="503" alt="image" src="https://github.com/user-attachments/assets/976bfd04-aec3-4ac6-a8d7-58fe57886d2d" /><br><br>
 
+<img width="665" height="224" alt="image" src="https://github.com/user-attachments/assets/405ed161-4595-46a0-9b3f-ecb7d3d53c65" />
+
 <img width="576" height="206" alt="image" src="https://github.com/user-attachments/assets/6de3f352-127e-4e73-96a5-4f72273096eb" /><br><br>
 
+<img width="690" height="217" alt="image" src="https://github.com/user-attachments/assets/4e27a8cc-435a-4371-87e2-15c80d16577f" />
+
+<img width="683" height="510" alt="image" src="https://github.com/user-attachments/assets/61e6562e-a3e3-45b9-a03d-4be0eb7dd908" />
+
+<img width="690" height="217" alt="image" src="https://github.com/user-attachments/assets/c18152fe-98dd-4c59-9234-4bbafb70a2d9" />
+
+<img width="732" height="506" alt="image" src="https://github.com/user-attachments/assets/c1e5b228-51c9-4b1a-b599-8b81f90784d0" />
+
+<img width="539" height="356" alt="image" src="https://github.com/user-attachments/assets/fa0d556d-e287-48a0-b5bc-e31a7338f5b7" />
+
+<img width="677" height="515" alt="image" src="https://github.com/user-attachments/assets/20230238-9ded-4861-a3d0-8ffa03571d6e" />
 
 ### Result
 
