@@ -89,6 +89,41 @@ sns.countplot(x='deck', data=df)
 plt.title("Deck distribution")
 plt.show()
 ```
+##### Numerical Variable Analysis
+
+```python
+print("Mean distribution of age :",df["age"].mean())
+print("Median distribution of age :",df["age"].median())
+print("Range :",max(df["age"])-min(df["age"]))
+
+plt.figure(figsize=(10, 6))
+sns.histplot(df['age'].dropna(), bins=30, kde=True)
+plt.title('Distribution of Passenger Age')
+plt.xlabel('Age')
+plt.ylabel('Frequency')
+plt.grid(axis='y', alpha=0.75)
+plt.show()
+```
+```python
+plt.figure(figsize=(8, 6))
+sns.boxplot(y='fare', data=df)
+plt.title('Distribution of Passenger Fare')
+plt.ylabel('Fare')
+plt.grid(axis='y', alpha=0.75)
+plt.show()
+```
+```python
+print(f"Mean Fare: {df['fare'].mean():.2f}")
+print(f"Median Fare: {df['fare'].median():.2f}")
+
+plt.figure(figsize=(10, 6))
+sns.histplot(df['fare'], bins=50, kde=True)
+plt.title('Distribution of Passenger Fare')
+plt.xlabel('Fare')
+plt.ylabel('Frequency')
+plt.grid(axis='y', alpha=0.75)
+plt.show()
+```
 
 ### Output
 
@@ -98,20 +133,29 @@ plt.show()
 
 <img width="385" height="629" alt="image" src="https://github.com/user-attachments/assets/350177d4-080e-4e55-8104-385af02f0aed" /><br><br>
 
+##### distribution of the sex variable
+
 <img width="539" height="181" alt="image" src="https://github.com/user-attachments/assets/94fd9979-cf9a-429a-8966-ec12f2c34007" /><br><br> 
 
 <img width="767" height="503" alt="image" src="https://github.com/user-attachments/assets/976bfd04-aec3-4ac6-a8d7-58fe57886d2d" /><br><br>
 
+##### percentage of passengers survived
 
 <img width="576" height="206" alt="image" src="https://github.com/user-attachments/assets/6de3f352-127e-4e73-96a5-4f72273096eb" /><br><br>
+
+##### Passenger class distribution
 
 <img width="665" height="224" alt="image" src="https://github.com/user-attachments/assets/405ed161-4595-46a0-9b3f-ecb7d3d53c65" />
 
 <img width="683" height="510" alt="image" src="https://github.com/user-attachments/assets/61e6562e-a3e3-45b9-a03d-4be0eb7dd908" />
 
+##### passengers embarked from each port
+
 <img width="690" height="217" alt="image" src="https://github.com/user-attachments/assets/c18152fe-98dd-4c59-9234-4bbafb70a2d9" />
 
 <img width="732" height="506" alt="image" src="https://github.com/user-attachments/assets/c1e5b228-51c9-4b1a-b599-8b81f90784d0" />
+
+##### Deck distribution
 
 <img width="539" height="356" alt="image" src="https://github.com/user-attachments/assets/fa0d556d-e287-48a0-b5bc-e31a7338f5b7" />
 
@@ -133,3 +177,13 @@ Thus, univariate analysis helps understand the distribution and spread of each i
 
 Visualization:
 Plot appropriate charts for each variable using Matplotlib/Seaborn.
+
+
+
+Plot the distribution of passenger age. What is its mean, median, and range?
+
+Plot a boxplot for fare and comment on the presence of outliers.
+
+What does the shape of the fare histogram indicate about fare distribution?
+
+Compare mean and median for fare – what can you infer about skewness?
