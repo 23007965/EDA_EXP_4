@@ -1,3 +1,7 @@
+```
+Name : P PARTHIBAN
+Reg No : 212223230145
+``` 
 # EDA_EXP_4   Titanic Survival Analysis using Univariate Analysis
 
 ## Aim
@@ -39,9 +43,9 @@ Identify patterns (e.g., more passengers in 3rd class, survival differences by g
 
 ### Program
 
-#### Name :
+#### Name : P PARTHIBAN
 
-#### Reg No.:
+#### Reg No.: 212223230145
 
 ##### Data Understanding
 ```python
@@ -126,6 +130,8 @@ plt.show()
 ```
 
 ### Output
+
+##  Data Understanding
 
 <img width="1107" height="215" alt="image" src="https://github.com/user-attachments/assets/7568d697-06c9-4e4b-b148-7c5f3147e6d0" />
 
