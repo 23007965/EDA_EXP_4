@@ -83,8 +83,7 @@ df["deck"].value_counts()
 
 <img width="1107" height="215" alt="image" src="https://github.com/user-attachments/assets/7568d697-06c9-4e4b-b148-7c5f3147e6d0" />
 
-<img width="393" height="24" alt="image" src="https://github.com/user-attachments/assets/23862f5f-87a2-4b15-b2c3-c06af1c6f076" />
-
+<img width="393" height="24" alt="image" src="https://github.com/user-attachments/assets/23862f5f-87a2-4b15-b2c3-c06af1c6f076" /><br><br>
 
 <img width="385" height="629" alt="image" src="https://github.com/user-attachments/assets/350177d4-080e-4e55-8104-385af02f0aed" />
 
