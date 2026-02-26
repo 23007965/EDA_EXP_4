@@ -85,11 +85,11 @@ df["deck"].value_counts()
 
 <img width="393" height="24" alt="image" src="https://github.com/user-attachments/assets/23862f5f-87a2-4b15-b2c3-c06af1c6f076" />
 
-<img width="385" height="629" alt="image" src="https://github.com/user-attachments/assets/350177d4-080e-4e55-8104-385af02f0aed" /><br><br>
+<img width="385" height="629" alt="image" src="https://github.com/user-attachments/assets/350177d4-080e-4e55-8104-385af02f0aed" />
 
-<img width="539" height="181" alt="image" src="https://github.com/user-attachments/assets/94fd9979-cf9a-429a-8966-ec12f2c34007" /><br><br>
+<img width="539" height="181" alt="image" src="https://github.com/user-attachments/assets/94fd9979-cf9a-429a-8966-ec12f2c34007" /> 
 
-<img width="767" height="503" alt="image" src="https://github.com/user-attachments/assets/976bfd04-aec3-4ac6-a8d7-58fe57886d2d" /><br><br>
+<img width="767" height="503" alt="image" src="https://github.com/user-attachments/assets/976bfd04-aec3-4ac6-a8d7-58fe57886d2d" /> 
 
 <img width="576" height="206" alt="image" src="https://github.com/user-attachments/assets/6de3f352-127e-4e73-96a5-4f72273096eb" />
 
