@@ -70,9 +70,10 @@ df["deck"].value_counts()
 ```
 
 ### Output
-
 <img width="1107" height="215" alt="image" src="https://github.com/user-attachments/assets/7568d697-06c9-4e4b-b148-7c5f3147e6d0" />
+
 <img width="184" height="28" alt="image" src="https://github.com/user-attachments/assets/209a62b2-1afa-41d7-bbda-92037f1f4e85" />
+
 <img width="428" height="605" alt="image" src="https://github.com/user-attachments/assets/345b7be7-24cd-4a00-8f27-a9168a3b0ae5" />
 
 
