@@ -70,13 +70,23 @@ df["survived"].value_counts(normalize=True) * 100
 ```python
 df["pclass"].value_counts()
 
+sns.countplot(x='pclass', data=df)
+plt.title("Passenger class distribution")
+plt.show()
 ```
 ```python
 df['embarked'].value_counts()
 
+sns.countplot(x='embarked', data=df)
+plt.title("passengers embarked from each port")
+plt.show()
 ```
 ```python
 df["deck"].value_counts()
+
+sns.countplot(x='deck', data=df)
+plt.title("Deck distribution")
+plt.show()
 ```
 
 ### Output
